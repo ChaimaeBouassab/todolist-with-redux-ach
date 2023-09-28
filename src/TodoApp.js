@@ -3,7 +3,6 @@ import AddTodo from "./components/AddTodo";
 import TodoList from "./components/TodoList";
 import VisibilityFilters from "./components/VisibilityFilters";
 import "./styles.css";
-const React = require("react");
 
 export default function TodoApp() {
   return (
